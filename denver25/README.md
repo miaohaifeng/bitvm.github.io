@@ -29,10 +29,26 @@ XXX read [more](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab
 
 
 ## Recorded Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kkhei1h6fKc?si=-yF0dW9B_3i21obW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
+  <iframe src="https://www.youtube.com/embed/Kkhei1h6fKc?si=-yF0dW9B_3i21obW" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/1z6JCbc4lxda2C4k5wvk8Xq-ImukjeCkdkrvZfmQtv2I/edit#slide=id.g31fe76eb03d_2_1" width="960" height="569" frameborder="0" allowfullscreen="true"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; width: 100%;">
+  <iframe src="https://docs.google.com/presentation/d/1z6JCbc4lxda2C4k5wvk8Xq-ImukjeCkdkrvZfmQtv2I/edit#slide=id.g31fe76eb03d_2_1" 
+          frameborder="0" 
+          allowfullscreen="true" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
 
 
 
